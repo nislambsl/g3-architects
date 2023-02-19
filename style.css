@@ -1,0 +1,26 @@
+
+.Container{
+    background: rgba(255, 144, 14, 0.1);
+}
+.header-Container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav{
+    display: flex;  
+}
+.nav li{
+    list-style: none;
+    padding-left: 40px;
+}
+.nav a{
+    text-decoration: none;
+}
+.top-banner-part{
+   text-align: center;
+}
+.top-banner-part img{
+    width: 80%;
+}
